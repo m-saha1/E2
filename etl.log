@@ -1,0 +1,24 @@
+2026-02-02 02:07:26,275 [INFO] ETL Pipeline Process Started
+2026-02-02 02:07:41,646 [INFO] --- ETL Transformation Stats ---
+2026-02-02 02:07:41,646 [INFO] raw_count: 227
+2026-02-02 02:07:41,646 [INFO] valid_count: 224
+2026-02-02 02:07:41,646 [INFO] error_missing_fields: 0
+2026-02-02 02:07:41,646 [INFO] error_invalid_types: 0
+2026-02-02 02:07:41,646 [INFO] error_out_of_bounds_year: 0
+2026-02-02 02:07:41,646 [INFO] error_price_outlier: 3
+2026-02-02 02:07:41,788 [INFO] ETL Pipeline Process Complete - Data loaded to PostgreSQL
+2026-02-02 02:27:41,950 [INFO] 
+[ETL Pipeline Process Started]
+
+2026-02-02 02:27:56,967 [INFO] 
+[--- ETL Transformation Stats ---]
+
+2026-02-02 02:27:56,967 [INFO] raw_count: 227
+2026-02-02 02:27:56,968 [INFO] valid_count: 224
+2026-02-02 02:27:56,968 [INFO] error_missing_fields: 0
+2026-02-02 02:27:56,968 [INFO] error_invalid_types: 0
+2026-02-02 02:27:56,968 [INFO] error_out_of_bounds_year: 0
+2026-02-02 02:27:56,968 [INFO] error_price_outlier: 3
+2026-02-02 02:27:57,101 [INFO] 
+[ETL Pipeline Process Complete - Data loaded to PostgreSQL]
+
