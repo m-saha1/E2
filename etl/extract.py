@@ -6,10 +6,7 @@ BASE_URL = "https://landregistry.data.gov.uk/data/ppi/transaction-record.json"
 
 
 def extract_data(start_year=2002, end_year=2024, samples_per_year=10):
-    """
-    Fetches a sample of transaction records across a range of years.
-    Note: The Linked Data API performs exact matches on transactionDate.
-    """
+
     aggregated_results = []
 
     print(f"[INFO] Initializing extraction for period: {start_year}-{end_year}")
